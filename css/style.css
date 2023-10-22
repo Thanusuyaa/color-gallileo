@@ -1,0 +1,254 @@
+.body{
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    float: left;
+    background-color: rgb(160, 194, 233);
+    height: 500px;
+}
+.header-left{
+    width: 50%;
+    float: left;
+    margin-left: 140px;
+    margin-top: 40px;
+    font-size: 20px;
+    color: black;
+}
+.header-right{
+    width: 50%;
+    float: right;
+    margin-top: -70px;
+}
+.header-right li {
+    display: inline-block;
+}
+.header-right li a {
+    font-size: 15px;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+.active {
+    background-color: white;
+    padding: 10px;
+}
+.pics{
+    width: 50%;
+    height: 355px;
+    margin-top: 30px;
+    margin-left: 330px;
+}
+.block{
+    width: 100%;
+    float: left;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.icon{
+    width: 100%;
+    float: left;
+}
+.block-1 {
+    width: 26%;
+    float: left;
+    height: 30px;
+}
+.block-1 h4 {
+    font-size: 20px;
+    color: black;
+    margin-left: 70px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.block-1 p{
+    font-size: 20px;
+    color: black;
+    margin-left: 2px;
+    text-align: center;
+}
+.cta1{
+    color: white;
+    background-color: brown;
+    margin-top: 2px;
+    margin-left: 100px;
+    padding: 8px;
+    width: 50%;
+}
+.block-2 {
+  width: 25%;
+  float: left;
+  margin-left: 70px;
+}
+.block-2 h4 {
+    font-size: 20px;
+    color: black;
+    margin-left: 70px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.block-2 p{
+    font-size: 20px;
+    color: black;
+    margin-left: 2px;
+    text-align: center; 
+}
+.cta2{
+    color: white;
+    background-color: brown;
+    margin-top: 2px;
+    margin-left: 100px;
+    padding: 8px;
+    width: 50%;
+}
+.block-3 {
+    width: 25%;
+    float: right;
+    margin-top: -450px;
+    margin-right: 70px;
+}
+.block-3 h4 {
+    font-size: 20px;
+    color: black;
+    margin-left: 70px;
+    margin-top: 30px;
+    padding: 10px;
+}
+.block-3 p{
+    font-size: 20px;
+    color: black;
+    margin-right: 2px;
+    text-align: center;
+}
+.cta3{
+    color: white;
+    background-color: brown;
+    margin-top: 2px;
+    margin-left: 90px;
+    padding: 8px;
+    width: 50%;
+}
+.content{
+    width: 100%;
+    float: left;
+}
+.content-right{
+    width: 50%;
+    float: left;
+}
+.content-right h3{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 90px;
+}
+.content-right p{
+    font-size: 15px;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.cta4{
+    padding: 10px;
+    background-color: brown;
+    color:white;
+    margin-left: 200px;
+    margin-top: 5px;
+    width: 25%;
+    border: none;
+}
+.cta5{
+    padding: 10px;
+    background-color: brown;
+    color: white;
+    border: none;
+    margin-top: 5px;
+    width: 25%;
+}
+.content-left{
+    width: 50%;
+    float: right;
+}
+.content-left li{
+    display: block;
+    color: black;
+    margin-left: 20px;
+    text-align: center;
+    line-height: 2;
+}
+.content-left h3{
+    font-size: 20px;
+    color: black;
+    margin-top: 80px; 
+    margin-left: 250px;
+}
+.footer{
+    width: 100%;
+    float: left;
+    background-color: rgb(181, 230, 67);
+    margin-top: 40px;
+}
+.footer-1{
+    width: 33.3%;
+    float: left;
+    
+}
+.footer-1 h4 {
+    font-size: 15px;
+    color: black;
+    margin-left: 160px;
+}
+.footer-1 li{
+    display: block;
+    text-decoration: none;
+    list-style-type: none; 
+    margin-left: 80px;
+    line-height: 1.5;
+    text-align: center;
+     
+}
+.footer-2{
+    width: 33.3%;
+    float: left;
+}
+.footer-2 h4 {
+    font-size: 15px;
+    color: black;
+    margin-left: 100px;
+}
+.footer-2 li{
+    display: block;
+    text-decoration: none;
+    list-style-type: none;
+    margin-left: -70px;
+    line-height: 1.5;
+    text-align: center;
+}
+.footer-3{
+    width: 33.3%;
+    float: right;
+}
+.footer-3 li{
+    display: block;
+    text-decoration: none;
+    list-style-type: none;
+    margin-right: 170px;
+    line-height: 1.5;
+    text-align: center;
+}
+.footer-3 h4{
+    margin-left: 25px;
+}
+.end {
+    width: 100%;
+    background-color: rgb(160, 194, 233);
+    float: left;
+}
+.end p{
+    font-size: 15px;
+    color: black;
+    height: 50px;
+    text-align: center;
+    
+    
+}
